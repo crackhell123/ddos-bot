@@ -1,0 +1,19 @@
+{
+  "name": "🚨🔥𝑪𝑹𝑨𝑪𝑲𝑯𝑬𝑳𝑳 𝑫𝑫𝑶𝑺🚨💀",
+  "version": "1.0.0",
+  "description": "Bot Telegram dengan Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "telegram",
+    "bot",
+    "nodejs"
+  ],
+  "author": "crackhell",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.55.0"
+  }
+}
